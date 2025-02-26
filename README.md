@@ -76,13 +76,14 @@ Luxury resale is a tricky business, and TFG is struggling with:
 - **GitHub**: Project documentation & portfolio showcase  
 
 ## **📂 How this repo is organised?**  
+```
 📂 Luxury-Fashion-Resale-Analysis
 ┣ 📂 Data → Raw & cleaned datasets
 ┣ 📂 Notebooks → Python scripts for data processing
 ┣ 📂 PowerBI-Dashboard → Power BI files & screenshots
 ┣ 📂 Reports → Business insights & recommendations
 ┣ 📜 README.md → Project documentation
-
+```
 ## 📢 **Want to explore the project? Here's how**  
 1. Clone the repo:
 ```bash
