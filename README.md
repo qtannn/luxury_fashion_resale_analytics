@@ -43,7 +43,7 @@ Luxury resale is a tricky business, and TFG is struggling with:
 
 ---
 
-## 🔄 **How I make it to the end?**  
+## 🔄 **How I made it to the end?**  
 ### **1️⃣ Data Collection & Cleaning - where it all begins**  
 - **Dataset:** provided by TFG  
 - **Tools Used:** `pandas`, `numpy`  
