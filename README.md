@@ -17,27 +17,34 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ## 📊 **The Key Takeaways (If You’re in a Hurry, Read This!)**  
 
 ### 🔥 **What did we learn?**
-✅ **Luxury Watches & Jewelry retain value better** than handbags.  
-✅ **Rolex & Hermès have the highest price retention** (above 70%).  
-✅ **Chanel & Louis Vuitton bags depreciate the fastest** (below 50% retention).  
-✅ **Items with high demand tend to sell within 60 days**, while **others stay unsold for over 120+ days**.  
-✅ **Seasonality affects pricing** – resale prices spike during peak shopping seasons.  
-✅ **Some items in poor condition are still sold at 100%+ of their original price** due to rarity & demand.  
-
+- Handbags are the main source of revenue for TFG
+- Chanel, Prada, and Cartier are top 3 brands with highest sales
+- **Luxury Watches & Jewelry retain value better** than handbags.  
+- **Rolex & Hermès have the highest price retention** while **Chanel & Louis Vuitton bags depreciate the fastest** (below 50% retention).
+- Sydney and Melbourne customers buy pre-owned items from TFG the most.
+- TFG has pretty good sourcing strategy currently as most of the items are in Good or Excellent condition.
+- Most items has 40-80% of value retention depending on other factor as well. However, items are expected to decrease at least 20% of their original value when being resold.
+- The sale peaked in mid-2023 and continued to grow in 2024 with signs of seasonal fluctuation. In 2025, sales have been descreasing since the store is being reinnovated which sluggish the operation.
+- **Some items in poor condition are still sold at 100%+ of their original price** due to rarity & demand.
+- Prada, Chanel, and Cartier have highest stock turnover rate, suggesting a strong demand for items from these brands.
+- Days on market has been increasing since mid-2023 and remained that high in 2024. This indicates that customers are no longer willing to make impulsive purchase when they saw it. This behavior could be attributed to customers tightening their budget due to economic downturn and inflation happening in Australia. 
 
 ### 🏷 **Our answer to the task?**
-📌 **Pricing Strategy**  
-- Adjust resale prices based on **demand & seasonal trends**.  
-- Use **dynamic pricing models** to maximize profit on high-value items.  
-- Consider **discounting slow-moving stock** after 90+ days on the market.  
-
+📌 **Pricing Strategy**:  
+- As the price lost by 40-80%, TFG should use this range as a benchmark, combining with the pricing matrix (detailing below) to competitvely set the price
+- Categorised brands/items into 4 groups based on Retention and Days on Market:
+  - High retention + selling fast = aggresively pricing based on the average resale price of this item
+  - High retention + selling slow = keep the price + marketing as an investment 
+  - Low retention + selling fast = mark down for 5-10% for quick turnover pricing
+  - Low retention + selling slow = price down, bundling and do promotions to clear the stocks.
+  
 📌 **Sourcing Strategy**  
-- Prioritize sourcing **high-retention brands** (Rolex, Hermès, Cartier).  
+- Prioritize sourcing **high-retention brands/items** (Rolex Daytona, Hermès Kelly 28, Cartier Tank Watch).  
 - Reduce investment in **high-depreciation brands** unless they have rapid turnover.  
-- Monitor **trendy items vs. classic investment pieces** to optimize sourcing decisions.  
+- Monitor **trendy items vs. classic investment pieces** to optimize sourcing decisions.
 
 📌 **Inventory Management**  
-- Restock **fast-selling items quickly** to prevent lost sales.  
+- Restock **fast-selling items quickly** (Cleo Shoulder Bag, Tank Watch) to prevent lost sales.  
 - Improve **stock rotation for slow-moving items** to avoid dead inventory.  
 - Offer **promotions on aging inventory** to free up capital for new acquisitions.  
 
@@ -64,8 +71,9 @@ Luxury resale is a tricky business, and TFG is struggling with:
 - **Visualized Key Metrics** → Pricing trends, demand analysis, inventory efficiency  
 - **Created a multi-page interactive dashboard**  
 - **Dashboard Screenshots:**  
-  ![Dashboard Preview](PowerBI-Dashboard/dashboard_screenshots/dashboard.png)
-
+![Sales Overview](PowerBI-dashboard/TFG_Resale_Overview.png)
+![Pricing](PowerBI-dashboard/TFG_Resale_Pricing.png)
+![Sourcing](PowerBI-dashboard/TFG_Resale_Sourcing.png)
 ### **4️⃣ Business Insights & Recommendations - from stories to actions**  
 - 📄 **One-Page Report** summarizing key insights for TFG  
 - 📊 **Detailed Slide Deck** with in-depth analysis & strategy recommendations  
