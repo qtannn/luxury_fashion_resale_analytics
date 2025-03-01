@@ -47,7 +47,6 @@ Luxury resale is a tricky business, and TFG is struggling with:
 - Restock **fast-selling items quickly** (Cleo Shoulder Bag, Tank Watch) to prevent lost sales.  
 - Improve **stock rotation for slow-moving items** to avoid dead inventory.  
 - Offer **promotions on aging inventory** to free up capital for new acquisitions.  
-
 ---
 
 ## 🔄 **How I made it to the end?**  
@@ -68,7 +67,7 @@ Luxury resale is a tricky business, and TFG is struggling with:
   - How does **seasonality affect resale value?**  
 
 ### **3️⃣ Power BI Dashboard Creation - turning data into stories**  
-- **Visualized Key Metrics** → Pricing trends, demand analysis, inventory efficiency  
+- **Visualized Key Metrics** → Pricing trends, demand analysis, inventory efficiency with drill-through visuals for product deep dive 
 - **Created a multi-page interactive dashboard**  
 - **Dashboard Screenshots:**  
 ![Sales Overview](PowerBI-dashboard/TFG_Resale_Overview.png)
