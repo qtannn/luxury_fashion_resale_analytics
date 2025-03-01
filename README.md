@@ -101,6 +101,4 @@ git clone https://github.com/yourusername/Luxury-Fashion-Resale-Analysis.git
 4. Review insights & recommendations in reports
 
 ##📩 **Let's connect!**
-- LinkedIn: Your Name
-- Portfolio: yourwebsite.com
-- GitHub: yourgithub.com
+- LinkedIn: [Christian (An) Quach](linkedin.com/in/anquach01)
