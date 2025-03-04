@@ -17,17 +17,24 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ## 📊 **The Key Takeaways (If You’re in a Hurry, Read This!)**  
 
 ### 🔥 **What did we learn?**
-- Handbags are the main source of revenue for TFG
-- Chanel, Prada, and Cartier are top 3 brands with highest sales
-- **Luxury Watches & Jewelry retain value better** than handbags.  
-- **Rolex & Hermès have the highest price retention** while **Chanel & Louis Vuitton bags depreciate the fastest** (below 50% retention).
-- Sydney and Melbourne customers buy pre-owned items from TFG the most.
-- TFG has pretty good sourcing strategy currently as most of the items are in Good or Excellent condition.
-- Most items has 40-80% of value retention depending on other factor as well. However, items are expected to decrease at least 20% of their original value when being resold.
-- The sale peaked in mid-2023 and continued to grow in 2024 with signs of seasonal fluctuation. In 2025, sales have been descreasing since the store is being reinnovated which sluggish the operation.
-- **Some items in poor condition are still sold at 100%+ of their original price** due to rarity & demand.
-- Prada, Chanel, and Cartier have highest stock turnover rate, suggesting a strong demand for items from these brands.
-- Days on market has been increasing since mid-2023 and remained that high in 2024. This indicates that customers are no longer willing to make impulsive purchase when they saw it. This behavior could be attributed to customers tightening their budget due to economic downturn and inflation happening in Australia. 
+💰 **Revenue & Sales Trends**
+- Handbags drive the most revenue for TFG.
+- Chanel, Prada, and Cartier are the top-selling brands in terms of volume.
+- Sydney & Melbourne customers are the most active buyers of pre-owned luxury items.
+- Sales peaked in mid-2023 and grew in 2024, showing seasonal fluctuations.
+- Sales dropped in 2025 due to store renovations affecting operations.
+
+📈 **Pricing & Value Retention**
+- Luxury Watches & Jewelry hold value better than handbags.
+- Rolex & Hermès have the highest value retention, while Chanel & Louis Vuitton bags depreciate the fastest (below 50% retention).
+- Most items retain 40-80% of their original price, but resale value is expected to drop at least 20% on average.
+- Some poor-condition items still sell at 100%+ of their original price due to rarity and high demand.
+
+📦 **Inventory & Sourcing Efficiency**
+- TFG's sourcing strategy is currently very good – most items are in Good or Excellent condition.
+- Prada, Chanel, and Cartier have the highest stock turnover rate, indicating strong demand.
+- Days on Market has increased since mid-2023 and remained high in 2024, suggesting customers are no longer making impulsive purchases.
+- Economic downturn & inflation in Australia may be causing buyers to be more cautious with spending.
 
 ### 🏷 **Our answer to the task?**
 📌 **Pricing Strategy**:  
