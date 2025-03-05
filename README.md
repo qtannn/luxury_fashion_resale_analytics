@@ -80,6 +80,7 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ![Sales Overview](PowerBI-dashboard/TFG_Resale_Overview.png)
 ![Pricing](PowerBI-dashboard/TFG_Resale_Pricing.png)
 ![Sourcing](PowerBI-dashboard/TFG_Resale_Sourcing.png)
+
 ### **4️⃣ Business Insights & Recommendations - from stories to actions**  
 - 📄 **One-Page Report** summarizing key insights for TFG  
 - 📊 **Detailed Slide Deck** with in-depth analysis & strategy recommendations  
@@ -98,14 +99,6 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ┣ 📂 Reports → Business insights & recommendations
 ┣ 📜 README.md → Project documentation
 ```
-## 📢 **Want to explore the project? Here's how**  
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/Luxury-Fashion-Resale-Analysis.git
-```
-2. Run the Jupyter Notebooks for data cleaning & EDA
-3. Open Power BI file to explore the dashboard
-4. Review insights & recommendations in reports
 
 ##📩 **Let's connect!**
 - LinkedIn: [Christian (An) Quach](linkedin.com/in/anquach01)
