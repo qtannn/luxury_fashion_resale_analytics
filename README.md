@@ -83,7 +83,6 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ![Product](PowerBI-dashboard/TFG_ProductDeepDive.png)
 
 ### **4️⃣ Business Insights & Recommendations - from stories to actions**  
-- 📄 **One-Page Report** summarizing key insights for TFG  
 - 📊 **Detailed Slide Deck** with in-depth analysis & strategy recommendations  
 
 ## **🛠️ Tech Stack**  
@@ -97,7 +96,7 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ┣ 📂 Data → Raw & cleaned datasets
 ┣ 📂 Notebooks → Python scripts for data processing
 ┣ 📂 PowerBI-Dashboard → Power BI files & screenshots
-┣ 📂 Reports → Business insights & recommendations
+┣ 📂 Reports → Detaied business insights & recommendations
 ┣ 📜 README.md → Project documentation
 ```
 
