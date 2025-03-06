@@ -99,5 +99,5 @@ Luxury resale is a tricky business, and TFG is struggling with:
 ┣ 📜 README.md → Project documentation
 ```
 
-##📩 **Let's connect!**
+## **📩 Let's connect!**
 - LinkedIn: [Christian (An) Quach](linkedin.com/in/anquach01)
