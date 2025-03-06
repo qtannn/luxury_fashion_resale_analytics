@@ -75,11 +75,12 @@ Luxury resale is a tricky business, and TFG is struggling with:
 
 ### **3️⃣ Power BI Dashboard Creation - turning data into stories**  
 - **Visualized Key Metrics** → Pricing trends, demand analysis, inventory efficiency with drill-through visuals for product deep dive 
-- **Created a multi-page interactive dashboard**  
+- **Access the dashboard**: [Here](https://app.powerbi.com/groups/me/reports/8df73c18-f453-41e4-8cef-dbc973ef690b?ctid=9aee26d8-97c2-4fad-8900-96735f6dc73f&pbi_source=linkShare) 
 - **Dashboard Screenshots:**  
-![Sales Overview](PowerBI-dashboard/TFG_Resale_Overview.png)
-![Pricing](PowerBI-dashboard/TFG_Resale_Pricing.png)
-![Sourcing](PowerBI-dashboard/TFG_Resale_Sourcing.png)
+![Sales Overview](PowerBI-dashboard/TFG_Overview.png)
+![Pricing](PowerBI-dashboard/TFG_Pricing.png)
+![Sourcing](PowerBI-dashboard/TFG_Sourcing.png)
+![Product](PowerBI-dashboard/TFG_ProductDeepDive.png)
 
 ### **4️⃣ Business Insights & Recommendations - from stories to actions**  
 - 📄 **One-Page Report** summarizing key insights for TFG  
