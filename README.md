@@ -79,9 +79,8 @@ Luxury resale is a tricky business, and TFG is struggling with:
 - **Dashboard Screenshots:**  
 ![Sales Overview](PowerBI-dashboard/TFG_Overview.png)
 ![Pricing](PowerBI-dashboard/TFG_Pricing.png)
-![Sourcing](PowerBI-dashboard/TFG_Sourcing.png)
 ![Product](PowerBI-dashboard/TFG_ProductDeepDive.png)
-
+![Sourcing](PowerBI-dashboard/TFG_Sourcing.png)
 ### **4️⃣ Business Insights & Recommendations - from stories to actions**  
 - 📊 **Detailed Slide Deck** with in-depth analysis & strategy recommendations  
 
