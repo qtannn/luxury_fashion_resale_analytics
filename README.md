@@ -86,7 +86,7 @@ Luxury resale is a tricky business, and TFG is struggling with:
 
 ## **🛠️ Tech Stack**  
 - **Python**: Data Cleaning & EDA (`pandas`, `numpy`, `seaborn`, `matplotlib`)  
-- **Power BI**: **Power Query** for transforming data, **DAX** for calculating key metrics, and **Dashboard** for business insights  
+- **Power BI**: **DAX** for calculating key metrics, and **Dashboard** for business insights  
 - **GitHub**: Project documentation & portfolio showcase  
 
 ## **📂 How this repo is organised?**  
